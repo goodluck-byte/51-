@@ -1,0 +1,30 @@
+# Keil 编译输出
+*.hex
+*.axf
+*.lst
+*.map
+*.obj
+*.crf
+*.htm
+*.lnp
+*.o
+
+# 日志与临时文件
+*.log
+*.tmp
+
+# 备份文件
+*~
+*.bak
+*.old
+
+# Keil 工程临时文件
+*.uvgui.*
+*.uvoptx
+*.uvguix.*
+
+# 编译中间目录
+/Output/
+/Build/
+/Debug/
+/Release/
